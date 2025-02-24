@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qjt7#7zb-60blq5480z)*o!0&*9sa@-_!w2+&spjizx4jt(c$=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chess-message.vercel.app','chess.com']
 
 
 # Application definition
